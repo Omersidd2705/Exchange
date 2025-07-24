@@ -1,1 +1,1 @@
-Dexribing the architecture of this Project
+Decribing the architecture of this Project
