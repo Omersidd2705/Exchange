@@ -6,7 +6,7 @@ API - An API Server the user sends HTTP requests to
 Engine - Runs various market orderbooks, stores user balances in memory
 Websocket - Websocket server that user subscribes to real time events from
 DB Processor - Processes messages from the Engine and persists them in the DB
-Frontend - NextJS app (same as last week, only the URLs would change)
+Frontend - NextJS app 
 Market maker (mm) - Places random orders to keep the book liquid
 Redis - Queue and pub sub
 TimescaleDB - Creates buckets of klines based on price feed
